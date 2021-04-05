@@ -1,7 +1,11 @@
 # Number Guessing Game
 
-This is a simple number guessing game created using HTML, CSS and JavaScript.
+This is one of the course projects of <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>,
 
-During my education I'll try to share as much projects as I can, from beginner level to the highest possible.
+a simple number guessing game created using HTML, CSS and JavaScript.
+
+I've made some modifications for responsive design.
 
 Reviews and comments are appreciated.
+
+
